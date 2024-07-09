@@ -35,7 +35,6 @@ git branch
 git chckout -b newbranch
 git branch devlopment
 git checkout devlopment
-
 ```
 
 ### merging
@@ -43,7 +42,6 @@ git checkout devlopment
 ```
 git checkout main
 git merge devlopment
-
 ```
 
 merge prectice
@@ -53,3 +51,5 @@ Type of merge
 
 - Fast-forward merge. (two way merge)
 - Three way merge
+
+https://youtu.be/LPuTX9qfYNk?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=4099
