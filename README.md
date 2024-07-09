@@ -4,6 +4,8 @@
 
 ```
 git --version
+ls
+ls -a (হিডেন ফোল্ডার দেখা)
 ```
 
 2. Git configuration
@@ -12,7 +14,7 @@ git --version
 git config --global user.name "shoyaib"
 git config --global user.email "shoyaib@shoyib.com"
 git init (install করা)
-git ls -lart (হিডেন ফোল্ডার দেখা)
+
 ```
 
 ### Git Language
