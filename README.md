@@ -1,4 +1,4 @@
-# Git
+# Git Intro
 
 1. Git Check
 
