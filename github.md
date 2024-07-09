@@ -7,8 +7,13 @@
 - how to create issues
 - branch and merging
 - resolve merge conflict
+- ssh key
+- basic commands
+- resolve marge conflict
+- collaboration
+- github pages
 
-1. remot repository check
+### 1. remot repository check
 
 ```
 git remote -v
@@ -53,3 +58,14 @@ Type of merge
 - Three way merge
 
 https://youtu.be/LPuTX9qfYNk?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=4099
+
+# ssh key (Secure Socket Shell)
+
+- ssh key generate key
+- ssh public key add to github
+
+```
+ssh-keygen -t ed2525519 -C "youremail"
+```
+
+https://youtu.be/prsZFP2UoDg?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=1137
