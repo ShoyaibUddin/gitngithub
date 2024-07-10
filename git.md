@@ -1,5 +1,7 @@
 # Git
 
+[Git & GitHub Documentation](https://github.com/anisul-Islam/git-github-documentation)
+
 ## Topic
 
 - git configuration
@@ -22,4 +24,10 @@ git init (install করা)
 
 ```
 git log --oneline
+```
+
+#### Git Delete
+
+```
+git rm -rf .git
 ```
