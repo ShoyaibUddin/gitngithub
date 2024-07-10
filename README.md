@@ -18,3 +18,7 @@ ls -a (হিডেন ফোল্ডার দেখা)
 - unmodified
 - modified
 - stage
+
+## Markdown Guide
+
+[Ref](https://www.markdownguide.org/basic-syntax/)

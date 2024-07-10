@@ -9,7 +9,6 @@
 - resolve merge conflict
 - ssh key
 - basic commands
-- resolve marge conflict
 - collaboration
 - github pages
 
@@ -30,6 +29,16 @@ Issue তৈরী করে তারপরে সেটিং থেকে col
 
 - collaboration
 - label
+
+### Collaboration
+
+আপনাকে কোন প্রজেক্টে এ্যড করা হলে তখন আপনি Collaboration করতে পারবেন।
+
+### Contribution
+
+এটার জন্য আপনাকে (fork => clone) করতে হবে
+
+> fork = 3rd party repo => own github => git clone করে নিজের পিসিতে নামিয়ে কাজ করতে হবে।
 
 ## branch and merging
 
@@ -57,7 +66,15 @@ Type of merge
 - Fast-forward merge. (two way merge)
 - Three way merge
 
-https://youtu.be/LPuTX9qfYNk?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=4099
+[Example Ref ](https://youtu.be/LPuTX9qfYNk?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=4099)
+
+# resolve merge conflict
+
+[Resolve marge request on github](https://youtu.be/prsZFP2UoDg?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=3077)
+
+```
+
+```
 
 # ssh key (Secure Socket Shell)
 
@@ -68,4 +85,10 @@ https://youtu.be/LPuTX9qfYNk?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=4099
 ssh-keygen -t ed2525519 -C "youremail"
 ```
 
-https://youtu.be/prsZFP2UoDg?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=1137
+[Example Ref](https://youtu.be/prsZFP2UoDg?list=PLgH5QX0i9K3pShEf_RCcVqPKxFm7sOLVD&t=1137)
+
+# github page
+
+এটার মাধ্যমে কোন একটা প্রজেক্টকে লাইভ দেখতে পারব।
+
+Repo => Settings => Branch একটা ব্রাঞ্চ দেখাতে হবে তারপর লাইভ লিং এর জন্য অপেক্ষা করতে হবে।
