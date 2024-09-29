@@ -1,0 +1,73 @@
+# LWS এর থেকে প্রপ্ত বিষয় সমূহ
+
+এই তিনটি বিষয় মনে রাখতে হবে।
+
+1. Working Directory
+2. Git Local Repository
+3. Remote Directory
+
+## Working Directory
+
+- বর্তমান ডারেক্টটরি দেখার জন্য কমান্ড হলো
+
+```
+PWD (present working directory)
+```
+
+- নতুন ফাইল তৈরী করার জন্য কমান্ড হলো
+
+```
+touch readme.md
+```
+
+- একটি ফাইল এবং ডিরেক্টরি তালিকা দেখানোর জন্য।
+
+```
+ls
+ls -a (hidden ফাইল দেখার জন্য)
+```
+
+## Git Repository
+
+#### গিট এর কনফিগারেশন দেখার জন্য
+
+```
+git config --list
+```
+
+- গিট এর User Name and Email সেটাপ করার জন্য
+
+```
+git config --global user.name "shoyaib"
+git config --global user.email "shoyaib@shoyib.com"
+```
+
+- গিট এর অবস্থা দেখার জন্য
+
+```
+git status
+```
+
+- গিট Install দেওয়ার জন্য
+
+```
+git init
+```
+
+git track করার দুইটি স্টেজ আছে.
+
+1. আমি এই ফাইল বা এই ফোল্ডার গুলোকে ট্রাক করাতে চাই।
+
+```
+git add --all
+git add file Name
+git add . (present directory)
+
+```
+
+2. গিট কমিট
+
+```
+git commit -m "MyMessage"
+
+```

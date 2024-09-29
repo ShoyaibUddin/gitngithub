@@ -31,3 +31,18 @@ git log --oneline
 ```
 git rm -rf .git
 ```
+
+# LWS এর থেকে প্রপ্ত বিষয় সমূহ
+
+- গিট এর কনফিগারেশন দেখার জন্য
+
+```
+git config --list
+```
+
+- গিট এর User Name and Email সেটাপ করার জন্য
+
+```
+git config --global user.name "shoyaib"
+git config --global user.email "shoyaib@shoyib.com"
+```
