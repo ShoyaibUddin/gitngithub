@@ -139,6 +139,7 @@ git branch -m newBranchName
 
 ```
 
+<<<<<<< Updated upstream
 ## git stash commit না করে লুকিয়ে রাখা
 
 ### stash করার জন্য
@@ -169,3 +170,6 @@ git stash pop
 git stash apply id... ধরে আনার জন্য
 
 ```
+=======
+Main din
+>>>>>>> Stashed changes
