@@ -65,9 +65,16 @@ git add . (present directory)
 
 ```
 
-2. গিট কমিট
+#### গিট কমিট
 
 ```
 git commit -m "MyMessage"
 
+```
+
+### গিট History দেখার জন্য।
+
+```
+git log
+git log --oneline
 ```
