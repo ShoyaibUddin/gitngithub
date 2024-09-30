@@ -115,19 +115,28 @@ git branch BranchName
 ### এক ব্রঞ্চথেকে আর এক ব্রঞ্চযে যাওয়া
 
 ```
-git branch switch BranchName
+git switch BranchName
 ```
 
 ### এক ব্রঞ্চ কে অন্য ব্রঞ্চের সাথে এক করা
 
 ```
-git branch merge BranchName
+git merge BranchName
 ```
 
 ### কোন ব্রঞ্চকে ডিলিট করা
 
 ```
 git branch -d branchName
+git branch -D branchName
+
 ```
 
-55664
+### কোন ব্রঞ্চকে নামকে মডিফাই করতে
+
+```
+git branch -m newBranchName
+
+```
+
+40 bosor Baoys
