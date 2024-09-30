@@ -91,3 +91,9 @@ git reset --hard (id)
 ```
 git reflog
 ```
+
+### কোন ফাইল রিমুভ করতে চাইলে
+
+```
+git rm fileneme
+```
