@@ -139,11 +139,33 @@ git branch -m newBranchName
 
 ```
 
-## git stash লুকিয়ে রাখা
+## git stash commit না করে লুকিয়ে রাখা
 
 ### stash করার জন্য
 
 ```
 git stash
+
+```
+
+### কি লুকিয়ে রেখিছিলাম দেখার জন্য
+
+```
+git stash show -p
+
+```
+
+### stash গুলো দেখার জন্য
+
+```
+git stash list
+
+```
+
+### শেষ লুকানে জিনিস আনার জন্য
+
+```
+git stash pop
+git stash apply id... ধরে আনার জন্য
 
 ```
