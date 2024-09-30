@@ -132,11 +132,18 @@ git branch -D branchName
 
 ```
 
-=======
-
 ### কোন ব্রঞ্চকে নামকে মডিফাই করতে
 
 ```
 git branch -m newBranchName
+
+```
+
+## git stash লুকিয়ে রাখা
+
+### stash করার জন্য
+
+```
+git stash
 
 ```
