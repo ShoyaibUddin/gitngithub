@@ -78,3 +78,16 @@ git commit -m "MyMessage"
 git log
 git log --oneline
 ```
+
+### গিট history back যাওয়ার জন্য।
+
+```
+git log --oneline
+git reset --hard (id)
+```
+
+### গিট সমস্ত history back যাওয়ার জন্য।
+
+```
+git reflog
+```
