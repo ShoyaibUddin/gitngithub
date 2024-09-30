@@ -27,6 +27,12 @@ ls
 ls -a (hidden ফাইল দেখার জন্য)
 ```
 
+- একটি ফোল্ডার তৈরি করার জন্য
+
+```
+mkdir folder name
+```
+
 ## Git Repository
 
 #### গিট এর কনফিগারেশন দেখার জন্য
@@ -139,7 +145,6 @@ git branch -m newBranchName
 
 ```
 
-<<<<<<< Updated upstream
 ## git stash commit না করে লুকিয়ে রাখা
 
 ### stash করার জন্য
@@ -170,6 +175,5 @@ git stash pop
 git stash apply id... ধরে আনার জন্য
 
 ```
-=======
-Main din
->>>>>>> Stashed changes
+
+## git Ignore
