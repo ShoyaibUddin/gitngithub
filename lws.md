@@ -123,3 +123,11 @@ git branch switch BranchName
 ```
 git branch merge BranchName
 ```
+
+### কোন ব্রঞ্চকে ডিলিট করা
+
+```
+git branch -d branchName
+```
+
+55664
