@@ -97,3 +97,23 @@ git reflog
 ```
 git rm fileneme
 ```
+
+## Branching
+
+### সব Branch দেখার জন্য
+
+```
+git branch --list
+```
+
+### নতুন ব্রঞ্চ তৈরী করতে
+
+```
+git branch BranchName
+```
+
+###
+
+```
+git branch switch BranchName
+```
