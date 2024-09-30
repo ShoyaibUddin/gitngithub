@@ -112,8 +112,14 @@ git branch --list
 git branch BranchName
 ```
 
-###
+### এক ব্রঞ্চথেকে আর এক ব্রঞ্চযে যাওয়া
 
 ```
 git branch switch BranchName
+```
+
+### এক ব্রঞ্চ কে অন্য ব্রঞ্চের সাথে এক করা
+
+```
+git branch merge BranchName
 ```
