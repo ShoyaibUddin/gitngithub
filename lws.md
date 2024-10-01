@@ -184,3 +184,23 @@ git stash apply id... ধরে আনার জন্য
 git rm --cached filename
 
 ```
+
+# GitHub পুল রিকুয়েস্ট
+
+- git push origin main
+- git pull
+
+## Fork
+
+- upstrim account / repository
+- fork account / repository
+
+### Git Clone
+
+- HTTPS
+
+[Video ref](https://youtu.be/l2yIQfnuexc)
+
+[Note](https://docs.google.com/document/d/1k1UzYRerLRgFwj3DoCLa6ElWI3Fh7is0Csn7G32y0b4/edit)
+
+Nice video
