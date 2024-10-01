@@ -177,3 +177,10 @@ git stash apply id... ধরে আনার জন্য
 ```
 
 ## git Ignore
+
+### git কোন ফাইলকে ক্যশিং থেকে রিমুভ করার জন্য।
+
+```
+git rm --cached filename
+
+```
